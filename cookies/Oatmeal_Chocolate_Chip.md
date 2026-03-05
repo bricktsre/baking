@@ -1,5 +1,3 @@
-# Oatmeal Chocolate Chip Cookies
-***
 ## Ingredients
 - 1 C Unsalted Butter (room temperature)
 - 100g Sugar
