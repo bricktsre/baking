@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Drop Cookie Basics"
-permalink: DropCookieBasics
+permalink: cookies/DropCookieBasics
 ---
 Drop cookies are cookies that are "dropped" onto a baking sheet. They do not require any rolling, cutting, or any other speical shaping. Includes classics like chocolate chip, oatmeal raisin, snickerdoodle and many more!
 
@@ -33,7 +33,7 @@ One of the biggest factors in making good drop cookies is temperature management
 
 ### Recipes
 <ul>
-{% for drop_cookie in site.drop_cookies %}
+{% for drop_cookie in site.drop-cookies %}
   <li>
     <a href="{{ drop_cookie.url }}">
       {{ drop_cookie.title }} 
