@@ -3,8 +3,8 @@ title: "Baking"
 description: >- # this means to ignore newlines until "baseurl:"
   Recipes and Thoughts on Baking
 domain: bricktsre.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://bricktsre.github.io/baking"
+baseurl: "/baking" # the subpath of your site, e.g. /blog
+url: "https://bricktsre.github.io"
 github_username:  bricktsre
 
 # GitHub Pages Settings

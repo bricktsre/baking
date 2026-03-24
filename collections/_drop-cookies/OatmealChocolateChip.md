@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Oatmeal Chocolate Chip Cookies"
 ---
 
