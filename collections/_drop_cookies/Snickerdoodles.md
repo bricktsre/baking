@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Snickerdoodles"
+---
+
 ## Ingredients
 - 1 C Unsalted Butter (Room Temperature)
 - 270g Sugar
