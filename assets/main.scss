@@ -4,3 +4,39 @@
 $content-width: 1000px;
 
 @import "minima";
+
+// Lay out images side by side: add {: .image-row} under a group of images
+.image-row {
+    display: flex;
+    gap: 1rem;
+
+    img {
+        flex: 1;
+        min-width: 0;
+    }
+}
+
+// Swap to a second image on hover: wrap two <img> in .hover-swap, give the second class "hover"
+.hover-swap {
+    position:relative;
+    flex: 1;
+    min-width: 0;
+
+    img {
+        display: block;
+        width: 100%;
+    }
+
+    .hover {
+        position: absolute;
+        inset: 0;
+        height: 100%;
+        object-fit: cover;
+        opacity: 0;
+        transition: opacity 0.3s;
+    }
+
+    &:hover .hover {
+        opacity: 1;
+    }
+}
