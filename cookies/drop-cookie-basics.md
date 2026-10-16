@@ -35,7 +35,7 @@ One of the biggest factors in making good drop cookies is temperature management
 <ul>
 {% for drop_cookie in site.drop-cookies %}
   <li>
-    <a href="{{ drop_cookie.url | relative_url}}">
+    <a href="{{ site.baseurl }}{{ drop_cookie.url }}">
       {{ drop_cookie.title }} 
     </a>
   </li>

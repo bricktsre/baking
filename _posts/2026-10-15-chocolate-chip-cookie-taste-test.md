@@ -11,9 +11,9 @@ As the cold weather sets in and the holiday season approaches my cookie producti
 Normally I would buy the cheapest chocolate chips available which is usually store brand. A larger bag () would run $ (/oz) which is very affordable but it also has cacoa of unknown quality and ingredients like. Earlier this year I decided to go slightly nicer with Tollhouse chocolate chips. A strong dislike for Nestle motivated me to find something even better. Three of the biggest names in big premium chocolate are Valrhona, Callebaut, and Guittard. I would say they are pretty equal in terms of quality and price. I like Guittard's cocoa powder and have heard good things about their chocolate chips so they are the ones I spent the most time researching. It turns out you can get 25lbs of Guittard chocolate chips at a pretty [reasonable price][webstaurantstore-guittard]. Before buying 25lbs of chocolate chips I wanted to figure out which cacao percentage would work best in the normal [chocolate chip cookie recipe][sally-choc-chip] I make.
 
 ## The Chocolate Chips
-![Milk Chocolate Chips](/assets/images/CHIPS-9oz-Milk-Chocolate-Print_1_4000x.webp)
-![Super Cookie Chips](/assets/images/CHIPS-9oz-Super-Cookie-Print_2_4000x.webp)
-![Extra Dark Chocolate Chip](/assets/images/CHIPS-9oz-Extra-Dark-Chocolate-Print_2_4000x.webp)
+![Milk Chocolate Chips]({{ site.baseurl }}/assets/images/CHIPS-9oz-Milk-Chocolate-Print_1_4000x.webp)
+![Super Cookie Chips]({{ site.baseurl }}/assets/images/CHIPS-9oz-Super-Cookie-Print_2_4000x.webp)
+![Extra Dark Chocolate Chip]({{ site.baseurl }}/assets/images/CHIPS-9oz-Extra-Dark-Chocolate-Print_2_4000x.webp)
 The three Guittard varieties I chose were: 
 - Milk Chocolate Chips (31% cacao)
 - Super Cookie Chips (48% cacao)

@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Recipes and Thoughts on Baking
 domain: bricktsre.github.io
 baseurl: "/baking" # the subpath of your site, e.g. /blog
-url: "https://bricktsre.github.io/baking"
+url: "https://bricktsre.github.io"
 github_username:  bricktsre
 
 # GitHub Pages Settings
@@ -32,7 +32,7 @@ plugins:
 collections:
   drop-cookies:
     output: true
-    permalink: /cookies/drop-cookies/:path/
+    permalink: cookies/drop-cookies/:path/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
