@@ -2,8 +2,7 @@
 layout: post
 title:  "Chocolate Chip Taste Test"
 date:   2026-10-15 21:10:00 -0400
-#category: cookies
-tags: cookies, chocolate, "chocolate chip cookies"
+tags: [cookies, drop-cookies, chocolate-chip-cookies, chocolate]
 ---
 ## Intro
 As the cold weather sets in and the holiday season approaches my cookie production naturally ramps up. Every year I try to make cookies a little bit better than the previous year. This cookie season I am focused on upgrading key ingredients to "premium" varieties in various recipes. The first ingredient I am testing is chocolate chips.
@@ -13,16 +12,16 @@ Normally I would buy the cheapest chocolate chips available which is usually sto
 ## The Chocolate Chips
 <div class="image-row">
     <span class="hover-swap">
-        <img src="{{ site.baseurl }}/assets/images/CHIPS-9oz-Milk-Chocolate-Print_1_4000x.webp" alt="Milk Chocolate Chips">
-        <img class="hover" src="{{ site.baseurl }}/assets/images/Milk-Chips_4000x.webp" alt="Milk Chocolate Chips Closeup">
+        <img src="{{ '/assets/images/CHIPS-9oz-Milk-Chocolate-Print_1_4000x.webp' | relative_url }}" alt="Milk Chocolate Chips">
+        <img class="hover" src="{{ '/assets/images/Milk-Chips_4000x.webp' | relative_url }}" alt="Milk Chocolate Chips Closeup">
     </span>
     <span class="hover-swap">
-        <img src="{{ site.baseurl }}/assets/images/CHIPS-9oz-Super-Cookie-Print_2_4000x.webp" alt="Super Cookier Chips">
-        <img class="hover" src="{{ site.baseurl }}/assets/images/SuperCookie_4f1edf4b-6059-4116-a25d-0beccd1880e0_4000x.webp" alt="Super Cookie Chips Closeup">
+        <img src="{{ '/assets/images/CHIPS-9oz-Super-Cookie-Print_2_4000x.webp' | relative_url }}" alt="Super Cookier Chips">
+        <img class="hover" src="{{ '/assets/images/SuperCookie_4f1edf4b-6059-4116-a25d-0beccd1880e0_4000x.webp' | relative_url }}" alt="Super Cookie Chips Closeup">
     </span>
     <span class="hover-swap">
-        <img src="{{ site.baseurl }}/assets/images/CHIPS-9oz-Extra-Dark-Chocolate-Print_2_4000x.webp" alt="Extra Dark Chocolate Chips">
-        <img class="hover" src="{{ site.baseurl }}/assets/images/extra-dark-baking-chips-2_4000x.webp" alt="Extra Dark Chocolate Chips Closeup">
+        <img src="{{ '/assets/images/CHIPS-9oz-Extra-Dark-Chocolate-Print_2_4000x.webp' | relative_url }}" alt="Extra Dark Chocolate Chips">
+        <img class="hover" src="{{ '/assets/images/extra-dark-baking-chips-2_4000x.webp' | relative_url }}" alt="Extra Dark Chocolate Chips Closeup">
     </span>
 </div>
 

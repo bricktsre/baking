@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Snickerdoodles"
+recipe: true
 ---
 
 ## Ingredients

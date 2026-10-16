@@ -1,5 +1,5 @@
 # Site Settings
-title: "Baking"
+title: "Bricktsre's Bakery"
 description: >- # this means to ignore newlines until "baseurl:"
   Recipes and Thoughts on Baking
 domain: bricktsre.github.io
@@ -28,11 +28,8 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-# Collections
-collections:
-  drop-cookies:
-    output: true
-    permalink: cookies/drop-cookies/:path/
+header_pages:
+- cookies/drop-cookies/index.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
