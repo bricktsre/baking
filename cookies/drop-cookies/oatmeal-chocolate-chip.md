@@ -26,5 +26,5 @@ recipe: true
 6. Chill for 1-2 hours
 7. Scoop into 30g balls (1.6Tb or #40 cookie scoop)
 8. Chill for 24-48 hours
-9. Heat oven to 350&degF and bake for about 12-13 minutes until edges are set
+9. Heat oven to 350&deg;F and bake for about 12-13 minutes until edges are set
 10. Rest cookies for 5 minutes on sheets before removing to wire racks to cool completely
