@@ -8,6 +8,7 @@ title: "Snickerdoodles"
 - 270g Sugar
 - 370g Flour (Sifted)
 - 2 Eggs (Room Temperature)
+- 1 tsp Vanilla
 - 2 tsp Cream of Tartar
 - 1 tsp Baking Soda
 - 1/2 tsp Kosher Salt
